@@ -1,0 +1,5 @@
+MemoApp_learns
+ドットインストール参照
+・UserDefaults
+・TableViewController
+・Segue

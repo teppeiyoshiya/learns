@@ -1,0 +1,5 @@
+colorApp_learns
+https://www.yukisako.xyz/entry/swift-kusoapps-summery参照
+・rob
+・UISlider
+・TableView

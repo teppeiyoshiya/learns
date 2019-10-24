@@ -1,0 +1,4 @@
+NewsReaderApp_learns
+・WKWebView
+・XMLParser
+・TableView
